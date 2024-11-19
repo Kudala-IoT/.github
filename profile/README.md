@@ -29,7 +29,7 @@ At **[Kudala IoT](https://kudala.io)**, we specialize in designing and deploying
 
 We’re always looking to connect with innovators, developers, and businesses to push the boundaries of IoT. If you have an idea or need assistance with your IoT projects, feel free to get in touch!
 
-📧 **Email**: [info@kudala.io](mailto:admin@kudala.io)  
+📧 **Email**: [admin@kudala.io](mailto:admin@kudala.io)  
 🌐 **Website**: [https://kudala.io](https://kudala.io)
 
 ---
